@@ -1,0 +1,2 @@
+lsgallery-image-clear
+=====================
